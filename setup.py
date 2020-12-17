@@ -13,7 +13,7 @@ setup(
     install_requires=[
         "pymongo==2.4",
         "CherryPy==3.2.2",
-        "Jinja2==2.6",
+        "Jinja2==2.10.1",
         "pefile==1.2.10-123",
         "python-magic==0.4.3",
     ],
